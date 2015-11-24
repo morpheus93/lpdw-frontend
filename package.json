@@ -1,0 +1,22 @@
+{
+  "name": "lpdw-frontend",
+  "version": "1.0.0",
+  "description": "Super",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morpheus93/lpdw-frontend.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Moi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morpheus93/lpdw-frontend/issues"
+  },
+  "homepage": "https://github.com/morpheus93/lpdw-frontend#readme"
+}
